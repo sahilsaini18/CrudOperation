@@ -48,74 +48,42 @@ public class Employee {
 		this.email = email;
 	}
 
-	/**
-	 * Gets the ID of the employee.
-	 *
-	 * @return the ID of the employee.
-	 */
+
 	public long getId() {
 		return id;
 	}
 
-	/**
-	 * Sets the ID of the employee.
-	 *
-	 * @param id the ID of the employee.
-	 */
+	
 	public void setId(long id) {
 		this.id = id;
 	}
 
-	/**
-	 * Gets the first name of the employee.
-	 *
-	 * @return the first name of the employee.
-	 */
+	
 	public String getFirstName() {
 		return firstName;
 	}
 
-	/**
-	 * Sets the first name of the employee.
-	 *
-	 * @param firstName the first name of the employee.
-	 */
+	
 	public void setFirstName(String firstName) {
 		this.firstName = firstName;
 	}
 
-	/**
-	 * Gets the last name of the employee.
-	 *
-	 * @return the last name of the employee.
-	 */
+	
 	public String getLastName() {
 		return lastName;
 	}
 
-	/**
-	 * Sets the last name of the employee.
-	 *
-	 * @param lastName the last name of the employee.
-	 */
+
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
 
-	/**
-	 * Gets the email of the employee.
-	 *
-	 * @return the email of the employee.
-	 */
+
 	public String getEmail() {
 		return email;
 	}
 
-	/**
-	 * Sets the email of the employee.
-	 *
-	 * @param email the email of the employee.
-	 */
+	
 	public void setEmail(String email) {
 		this.email = email;
 	}
